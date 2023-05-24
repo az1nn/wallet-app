@@ -1,24 +1,24 @@
-#####
-
-### About:
+# About:
 
 Fullstack App, made with React and Asp.Net 7
 
-### Setup:
+# Setup:
 
-## front:
+### front:
 
+```
 cd frontend/
-npm install
-npm run dev
+npm install 
+npm run dev 
+```
 
 entrypoint: http://localhost:5173/login
 
-## backend:
+### backend:
 
+```
 cd backend/
 dotnet run
+```
 
-api url: http://127.0.0.1:5254/api/
-
-######
+url: http://127.0.0.1:5254/api/
